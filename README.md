@@ -2,11 +2,6 @@
 
 Triform Intelligence AI
 
-https://img.shields.io/badge/Triform-Intelligence%20AI-blue
-https://img.shields.io/badge/version-1.0.0--alpha-green
-https://img.shields.io/badge/license-MIT--NC-yellow
-https://img.shields.io/badge/rust-1.75%2B-orange
-https://img.shields.io/badge/architecture-Bio--Inspired-red
 
 A Bio-Inspired Architecture for General Adaptive Intelligence
 Emergent intelligence through three specialized layers: Stallion, Crow, and Ant
